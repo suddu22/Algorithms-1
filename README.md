@@ -1,6 +1,6 @@
 # Algorithms
-This Repository contains all sort of algrithms that we learn for Algorithms. 
-Written in C, C++, Java, Python, Ruby, PHP, Javascript
+This Repository contains all sorts of algorithms that we learn for the course Algorithms. 
+Code has been written in C, C++, Java, Python, Ruby, PHP, Javascript
 ## How to Contribute ##
 1. First, fork this repository to your account.
 
